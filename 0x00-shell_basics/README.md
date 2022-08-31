@@ -9,3 +9,7 @@
 8-script that deletes file
 9-script that deletes directory
 10-script that changes back to the previous directory
+11-script that lists all files in current,parent of working directory and /boot
+12-script that prints the file type
+13-script that creates symbolic link
+14-script that copies all html files
