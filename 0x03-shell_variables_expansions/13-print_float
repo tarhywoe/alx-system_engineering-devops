@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%.2f" $NUM | sort
+echo $NUM | bc -l | xargs printf "%0.2f"
